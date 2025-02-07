@@ -5,8 +5,7 @@
    https://flashcard-generator-1211.netlify.app/
 
 ### `Youtube presentation video link`
-
-   https://www.loom.com/share/874b1d56354649b499c1b6f63786fe23?sid=4b79b6bf-4c49-4f7c-985a-56673257d90c  
+https://www.loom.com/share/e8d1ec1638fc4e748999399184dc6d64?sid=88a73cb2-1466-4468-939d-8974c3f17dfc
    
 
 ## `Project Description`
