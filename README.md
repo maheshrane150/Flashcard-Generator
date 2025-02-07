@@ -23,7 +23,8 @@ This Project Consists of 3 main pages:
 
     ![screenshot(1)](https://github.com/maheshrane150/Flashcard-Generator/blob/76095a4b3bf7d169c7df1de2a4e5915b1414844/screenshots/screenshot(1).png?raw=true)
 
-   ![screenshot(2)](https://github.com/maheshrane150/Flashcard-Generator/blob/master/screenshots/screenshot(2).png?raw=true)
+   ![screenshot(2)](https://github.com/maheshrane150/Flashcard-Generator/blob/4b58626da042f61e5b36dcbdef253fd093c553bf/screenshots/screenshot(2).png?raw=true)
+
 
 2. ### `MyFlashCard Page`
 
@@ -31,26 +32,26 @@ This Project Consists of 3 main pages:
    Each group is presented with a group heading, an associated group icon image, a description of the card group,
    the total count of cards within the group, and a button for accessing the cards on the subsequent page.
 
-   ![screenshot(3)](https://github.com/maheshrane150/Flashcard-Generator/blob/master/screenshots/screenshot(3).png?raw=true)
+   ![screenshot(3)](https://github.com/maheshrane150/Flashcard-Generator/blob/4b58626da042f61e5b36dcbdef253fd093c553bf/screenshots/screenshot(3).png?raw=true)
 
    Modal for deleting single flashcard.
 
-    ![screenshot(4)](https://github.com/maheshrane150/Flashcard-Generator/blob/master/screenshots/screenshot(4).png?raw=true)
+    ![screenshot(4)](https://github.com/maheshrane150/Flashcard-Generator/blob/4b58626da042f61e5b36dcbdef253fd093c553bf/screenshots/screenshot(4).png?raw=true)
 
    If you have not created any flashcards then it will show No Flashcards available.
 
-   ![screenshot(5)](https://github.com/maheshrane150/Flashcard-Generator/blob/master/screenshots/screenshot(5).png?raw=true)
+   ![screenshot(5)](https://github.com/maheshrane150/Flashcard-Generator/blob/4b58626da042f61e5b36dcbdef253fd093c553bf/screenshots/screenshot(5).png?raw=true)
 
 3. ### `FlashCardDetails Page`
    In this section, you have the ability to review the created flashcards.
    Navigation between different flashcards is facilitated by clicking on the sidebar terms assigned to the cards during group creation.
    Additionally, options for sharing, printing, and downloading the flashcards are available.
 
-    ![screenshot(6)](https://github.com/maheshrane150/Flashcard-Generator/blob/master/screenshots/screenshot(6).png?raw=true)
+    ![screenshot(6)](https://github.com/maheshrane150/Flashcard-Generator/blob/4b58626da042f61e5b36dcbdef253fd093c553bf/screenshots/screenshot(6).png?raw=true)
 
     This is the share page component which gives the multiple option for sharing this page.
 
-   ![screenshot(7)](https://github.com/maheshrane150/Flashcard-Generator/blob/master/screenshots/screenshot(7).png?raw=true)
+   ![screenshot(7)](https://github.com/maheshrane150/Flashcard-Generator/blob/4b58626da042f61e5b36dcbdef253fd093c553bf/screenshots/screenshot(7).png?raw=true)
    
 
 
